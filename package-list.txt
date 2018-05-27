@@ -1,0 +1,7 @@
+atom-ide-ui@0.12.0
+markdown-writer@2.7.3
+nord-atom-ui@0.11.0
+teletype@0.13.2
+tool-bar@1.1.7
+tool-bar-markdown-writer@0.3.1
+
