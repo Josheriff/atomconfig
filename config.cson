@@ -1,0 +1,18 @@
+"*":
+  "atom-ide-ui":
+    use: {}
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "nord-atom-ui"
+      "one-dark-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "9ffd78fb-70bf-479d-9e20-df6005a7cb97"
+  "spell-check":
+    locales: [
+      "es-ES"
+    ]
+  welcome:
+    showOnStartup: false
