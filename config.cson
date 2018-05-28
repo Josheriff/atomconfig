@@ -7,7 +7,8 @@
       "nord-atom-ui"
       "one-dark-syntax"
     ]
-  editor: {}
+  editor:
+    fontSize: 15
   "exception-reporting":
     userId: "9ffd78fb-70bf-479d-9e20-df6005a7cb97"
   "spell-check":
